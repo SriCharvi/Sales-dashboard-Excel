@@ -13,22 +13,9 @@ Welcome to the Sales Dashboard project repository! This project focuses on analy
 - Dive into monthly sales analysis
 - Explore profitability by product category
 
-## Getting Started:
-1. Clone this repository to your local machine.
-2. Open the Excel file `Sales_Dashboard.xlsx` to explore the dashboard.
-3. Dive into the `Data` folder to access the raw dataset.
-
 ## Project Overview:
 - **Objective:** To transform raw sales data into actionable insights.
 - **Tools Used:** Microsoft Excel
 - **Skills Demonstrated:** Data analysis, visualization, dashboard design.
 
-## Connect with Me:
-Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile](https://www.linkedin.com/in/minhaj313)
 
-## Tags:
-#DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics
-
----
-
-Explore the power of data analytics and unlock valuable insights with this Sales Dashboard project! Feel free to reach out for any questions or collaborations. Happy analyzing! 🚀
